@@ -23,7 +23,7 @@ My professional portfolio website showcasing my skills, experience, and projects
 
 ## Deployment
 
-This site is deployed using GitHub Pages and can be accessed at: `https://[your-github-username].github.io/portfolio/`
+This site is deployed using GitHub Pages and can be accessed at: `https://ankit-gautam23.github.io/portfolio/`
 
 ## Local Development
 
