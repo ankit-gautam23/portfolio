@@ -1,0 +1,157 @@
+ANKIT GAUTAM​
+Software Engineer ​ ​
+
+​
+
+​
+​
+​
+​
+​
+Address: - Vikash Nagar, Kotma, Dist. Anuppur (M.P.)
+LinkedIn Github Leetcode Codeforces Codechef HackerEarth
+
+​
+
++91 8602978557
+
+​
+
+ankit.gautamp23@gmail.com
+
+Career Objective:
+Backend Software Engineer with over 5 years of experience in Java, Spring Boot, and cloud platforms (AWS,
+Azure, GCP), skilled in developing microservices, API management, and enhancing system performance and
+reliability.
+
+Professional Experience:
+​
+
+LOGICMONITOR(INDIA) LLP: Software Engineer (December 2023 - August 2024)
+●​ Exposed to various tasks related to log collection from physical devices/servers, different
+clouds, and hybrid environments.
+●​ Developed custom plugins for log aggregation platforms (Logstash, FluentBit, FluentD),
+optimizing data ingestion and processing.
+●​ Created integrations for cloud platforms like AWS and Azure for efficient log collection.
+●​ Worked on reducing latency and eliminating memory leaks that caused high resource usage
+on cloud platforms.
+MYSTIFLY CONSULTING PVT LTD: Software Engineer (March 2023 - July 2023)
+●​ Managed Jira tickets related to creating regex for more than 20 airlines.
+●​ Developed automation scripts to extract data through regex and detect errors or new formats.
+●​ Deployed a Flask application on Azure using Docker (hot reloading), Bitbucket, and Azure
+Container Registry.
+●​ Built an ML model using LSTM (TensorFlow) and Logistic Regression to replace
+regex-based processing.
+●​ Created Python automation scripts to generate larger datasets for ML model training.
+●​ Explored GCP for model creation and training using Vertex AI and Google Colab with a
+high-powered instance.
+CREDIT SAISON INDIA: SDE-I (Dec 2021 - March 2023)
+●​ Managed assigned tickets involving the creation and management of microservices using Java
+(Spring Boot) and Golang.
+●​ Created infrastructure for new services by writing or modifying YAML files.
+●​ Addressed real-world engineering challenges such as reducing build times for microservices.
+●​ Migrated microservices from Java 8 to Java 11.
+●​ Implemented self-healing mechanisms, including callback functions and the circuit breaker
+pattern, for third-party applications.
+INFOSYS: Systems Engineer (Microservice Developer(Java Developer) (Aug 2020 – Dec 2021):
+●​ Engineered RESTful microservices with Spring Boot, adhering to Swagger specifications, and
+optimized API response times and data consistency.
+●​ Created API proxies in Google Apigee for enhanced API management.
+INFOSYS: Systems Engineer Trainee {Full Stack Developer} (Dec 2019 – Aug 2020):
+●​ Trained as Full stack developer in Java Spring Boot React & Angular
+●​ Developed the frontend for the landing page and search functionality.
+●​ Configured and coded the backend to support the frontend features.
+●​ Designed and implemented the database to handle the application's requirements.
+
+Technical Skills:
+Languages: Java, Python, Golang, JavaScript, C, C++, Data Structures, and Algorithms
+Frameworks: Spring, Spring Boot, Quarkus (Java); Gin (Golang); Flask (Python)
+Frontend Technologies: ReactJS, VueJS and AngularJS
+Cloud Platforms: AWS, Azure, GCP (Google Cloud Platform)
+DevOps & Containerization: Docker, Kubernetes, Jenkins, CI/CD pipeline automation
+API Management: REST API development, Swagger documentation, Google Apigee
+Version Control: Git, GitHub, GitLab, Bitbucket
+Scripting & Automation: Shell Scripting, Python, YAML
+
+Web Servers: Apache, Tomcat, GlassFish, Nginx
+Configuration & Project Management Tools: Jira, Postman, Slack
+
+Project Details:
+Story Name: Reducing Docker Image (Python/Java/Golang)
+Description: Optimized Docker image size with Python/Java/Golang, resulting in improved deployment
+efficiency and reduced storage costs.
+Story Name: Some Coin (Java)
+Description: Developed a simple blockchain wallet in Java for secure transaction signing and validation,
+employing cryptography and proof-of-work mechanisms.
+
+Professional Summary:
+●​ 5+ years of backend development experience with a strong focus on microservices architecture and API
+development.
+●​ Skilled in Java, Spring Boot, and Golang, with expertise in creating scalable and resilient applications.
+●​ Proficient in implementing CI/CD pipelines with Jenkins for automated code deployment.
+●​ Strong foundation in data structures, algorithms, and problem-solving.
+●​ Experienced in cloud infrastructure management and optimization on AWS, Azure, and GCP.
+●​ Demonstrated success in reducing latency, improving reliability, and optimizing infrastructure in high-traffic
+environments.
+●​ Knowledgeable in OO principles, software design, and design patterns.
+●​ Collaborative team player with hands-on experience in Git-based version control systems..
+
+Extra Curriculum:
+●​ Led and mentored teams in various hackathons, including Smart India Hackathon (2017-2018) and UNESCO
+India-Africa Hackathon (2022).
+●​ Community Lead at Google Crowdsource (2018) and Google MLCC Study Jam Facilitator, fostering tech
+learning and engagement.
+●​ Completed over 35 quests and 200 labs on Google Cloud Training Platform and became alumni of it, building
+hands-on expertise in cloud technologies.
+●​ Reviewed and contributed to 250+ open-source PRs on GitHub, actively supporting community-driven
+projects.
+●​ Mentored participants and led teams in multiple national hackathons(Smart Odisha & Smart Rajasthan),
+creating innovative, impactful solutions.
+●​ Contributed and Reviewed PR’s of about 250+ Open Source Organisations on Github.
+●​ Mentored UNESCO INDIA-AFRICA Hackathon 2022.
+
+Academic Qualification:
+●​ Bachelor of Engineering in Computer Science and Engineering, Sri Aurobindo Institute of Technology, Indore
+(2015-2019)
+●​ Higher Secondary from St. Joseph’s Mission School, Bijuri (2015)
+Strengths: Leadership, punctuality, and dedication to quality in work.
+Hobbies: Sketching, cricket, singing, and reading technology blogs.
+
+Personal Details:
+Father’s Name:
+Late Mr. Rajendra Kumar Gautam
+Date of Birth:
+23rd December 1997
+Gender:​
+Male
+Language Known:​
+English & Hindi
+Nationality:​
+Indian
+Declaration: I hereby confirm that all information is accurate and true to the best of my knowledge.
+
+Date:​ ​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+Ankit Gautam
+
+

@@ -1,0 +1,1 @@
+// Placeholder service worker for PWA. Add caching and offline support here in the future. 
